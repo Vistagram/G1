@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +11,7 @@ body {
   position: relative;
   background-color: #fafafa;
   background-image: url("img/back.png");
-  font-family: "source sans pro", sans-serif;
+font-family: 'Playfair Display', serif;
   overflow-x: hidden;
 
 }
